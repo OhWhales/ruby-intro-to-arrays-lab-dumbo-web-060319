@@ -13,3 +13,9 @@ end
 def last_element(arg)
   return arg[-1]
 end 
+def first_element_with_array_methods(arg)
+  return arg.first 
+end 
+def last_element_with_array_methods(arg)
+  return arg.last 
+end 
